@@ -29,7 +29,7 @@ export default {
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Install [eslint-plugin-react] (https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 ## Using Bootstrap in React
 
@@ -39,6 +39,7 @@ export default {
 ## React Tutorials
 
 - Official Website `https://react.dev/learn`
+- Youtube Codevolution
 - Basic `https://www.youtube.com/watch?v=SqcY0GlETPk`
 - Basic to Advance `https://www.youtube.com/watch?v=cd3P3yXyx30`
 - React Hooks `https://www.youtube.com/watch?v=LlvBzyy-558`
